@@ -31,11 +31,3 @@ This project allows users to play against the computer, view instant results, an
    git clone https://github.com/krishnasai2509-bot/rock-paper-scissors.git
 
 ---
-
-## ✅ Next Steps (IMPORTANT)
-
-### 1️⃣ Save README
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
